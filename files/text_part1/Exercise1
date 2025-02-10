@@ -1,0 +1,27 @@
+
+A. What is the difference between volatile memory(RAM) and non-volatile memory(storage)?
+
+Answer:
+Volatile memory is the memory used to execute a program on a computer and is erased when the program ends.
+In contrast, non-volatile memory is where information is stored even when programs end and the computer is turned off.
+
+
+B. Give examples of different types of non-volatile memory
+
+Answer:
+Examples of non-volatile memory: hard disk, flash drive, memory card, video card.
+
+
+C. What is the function of the close method of a file?
+
+Answer:
+The close method is used to close the file in a specific program and delete it from RAM
+but does not delete it from storage.
+
+
+D. What is the difference between the 'r', 'w', and 'a' file opening modes?
+
+Answer:
+w: Open file for writing (if there is text in the file, it will be deleted and the new text will replace it)
+a: Open file for appending text.
+r: Open file for reading.

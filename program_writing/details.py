@@ -1,0 +1,5 @@
+first_name=input("pleas put your first name:")
+last_name=input("pleas put your last name:")
+age=input("pleas put your age:")
+print("Hello there",first_name,last_name+"!")
+print("you are",age,"years old.")

@@ -1,0 +1,6 @@
+side1=float(input("Please enter the length of side 1:"))
+side2=float(input("Please enter the length of side 2:"))
+side3=float(input("Please enter the length of side 3:"))
+print("The triangle is a equilateral triangle:",side1==side2 and side2==side3)
+print("The triangle is a isosceles triangle:",side1==side2 or side2==side3 or side1==side3)
+print("The triangle is a right triangle:",side1**2+side2**2==side3**2 or side1**2+side3**2==side2**2 or side2**2+side3**2==side1**2)

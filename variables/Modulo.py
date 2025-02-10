@@ -1,0 +1,5 @@
+print(15%4)
+print(27%2)
+print(7%1)
+print(7%7)
+print(852%10)
